@@ -1,0 +1,16 @@
+PODS:
+  - OverlayKit (0.1.0)
+
+DEPENDENCIES:
+  - OverlayKit (from `../`)
+
+EXTERNAL SOURCES:
+  OverlayKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OverlayKit: 530dad248d12efe486901195087e52e2d9d6e2bc
+
+PODFILE CHECKSUM: 4e7fb81db9ff58cd3e513e05ad2f67edb4113c45
+
+COCOAPODS: 1.12.0

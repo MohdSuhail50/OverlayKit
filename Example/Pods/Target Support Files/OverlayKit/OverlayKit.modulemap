@@ -1,0 +1,6 @@
+framework module OverlayKit {
+  umbrella header "OverlayKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
